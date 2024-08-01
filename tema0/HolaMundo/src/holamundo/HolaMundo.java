@@ -30,7 +30,8 @@ public class HolaMundo {
            
             System.out.println("1.- Introducir Datos");
             System.out.println("2.- Mostrar Datos");
-            System.out.println("3.- Salir");
+            System.out.println("3.- Crear Docente Basica");
+            System.out.println("4.- Salir");
 
             op = sc.nextInt();
             switch (op) {
@@ -51,6 +52,17 @@ public class HolaMundo {
                 case 2:
                     System.out.println(persona);
                     break;
+                case 3:
+                    DocenteBasicas ingperez=new DocenteBasicas("Juan","Perez") ;
+                    MateriaBasica Mat100=new MateriaBasica();
+                    MateriaBasica Mat101=new MateriaBasica();
+                    MateriaEspecialidad SIS256=new MateriaEspecialidad();
+                    ingperez.addMateria(Mat100);
+                    ingperez.addMateria(Mat101);
+                    ingperez.addMateria(SIS256);
+                    
+                    
+                    break;    
             }
 
         }
