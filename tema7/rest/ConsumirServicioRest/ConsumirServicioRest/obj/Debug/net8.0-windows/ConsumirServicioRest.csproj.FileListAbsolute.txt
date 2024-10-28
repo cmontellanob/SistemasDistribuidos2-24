@@ -1,0 +1,17 @@
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\bin\Debug\net8.0-windows\ConsumirServicioRest.exe
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\bin\Debug\net8.0-windows\ConsumirServicioRest.deps.json
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\bin\Debug\net8.0-windows\ConsumirServicioRest.runtimeconfig.json
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\bin\Debug\net8.0-windows\ConsumirServicioRest.dll
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\bin\Debug\net8.0-windows\ConsumirServicioRest.pdb
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ConsumirServicioRest.Form1.resources
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ConsumirServicioRest.csproj.GenerateResource.cache
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ConsumirServicioRest.GeneratedMSBuildEditorConfig.editorconfig
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ConsumirServicioRest.AssemblyInfoInputs.cache
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ConsumirServicioRest.AssemblyInfo.cs
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ConsumirServicioRest.csproj.CoreCompileInputs.cache
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ConsumirServicioRest.sourcelink.json
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ConsumirServicioRest.dll
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\refint\ConsumirServicioRest.dll
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ConsumirServicioRest.pdb
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ConsumirServicioRest.genruntimeconfig.cache
+D:\usfx\2-2024\SistemasDistribuidos2-24\tema7\rest\ConsumirServicioRest\ConsumirServicioRest\obj\Debug\net8.0-windows\ref\ConsumirServicioRest.dll
